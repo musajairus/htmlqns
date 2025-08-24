@@ -1,0 +1,14 @@
+body{
+    background-color: lightcoral;
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    ...existing code...
+<style>
+    body {
+    }
+    ul {
+        list-style-type: none;
+        padding-left: 0;
+    }
+</style>
+}
